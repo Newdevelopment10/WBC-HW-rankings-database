@@ -1,4 +1,4 @@
-# WBC-rankings-database
+# WBC-HW-rankings-database
 Created a database of the top 40 heavyweights in the WBC + the WBC HW champion (current as of April 2024). The following are the instructions for creating the database in PostgreSQL and the SQL for creating the tables and columns within the tables:
 PostgreSQL was downloaded for free from their website. The files were placed in the appropriate directory. PGAdmin4 was downloaded as well. PG Admin4 is
 the graphic interface to use on this RDMS (Relation Database Management System). Using the interface, a data was created by right-clicking on PostgreSQL 16, hovering on Create, click Database, name database, click on Save. Once database is created, click on Schema, right click on tables, click on Query Tool, then type in the following code to create each table:
