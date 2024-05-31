@@ -40,3 +40,4 @@ The tables were filled using the following format:
 INSERT INTO (column 1, column 2, column n...)
 VALUES (input value according to syntax for data type)
 
+A list of queries that I used to obtain information and aggregate results are in the Word document in this repository.
